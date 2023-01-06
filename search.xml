@@ -4,6 +4,120 @@
   
     
     <entry>
+      <title>Fl studio 破解版</title>
+      <link href="/2022/12/27/fl/"/>
+      <url>/2022/12/27/fl/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Fl studio,又称水果软件，用来写音乐的，因为他太好用了所以很多人用<br>但是这个伞兵软件的破解在国内根本找不到，只能去外网找<br>所以我直接贴磁力链接资源出来</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">magnet:?xt=urn:btih:7C922F89C84DF9D65177C91D43F201BF6383B02F&amp;tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&amp;dn=Image-Line%20-%20FL%20Studio%20Producer%20Edition%2020.8.3.2304%20WIN.OSX%20%5B17%2C03%2C2021%2C%20ENG%5D</span><br></pre></td></tr></table></figure><h1 id="安装指南"><a href="#安装指南" class="headerlink" title="安装指南"></a>安装指南</h1><h2 id="安装软件"><a href="#安装软件" class="headerlink" title="安装软件"></a>安装软件</h2><h2 id="运行-FL-STUDIO-PATCH-v20-8-3-文件夹中的-FLRegKey-20-8-Win-reg-文件，并允许将必要的更改应用于注册表"><a href="#运行-FL-STUDIO-PATCH-v20-8-3-文件夹中的-FLRegKey-20-8-Win-reg-文件，并允许将必要的更改应用于注册表" class="headerlink" title="运行 FL STUDIO PATCH v20.8.3 文件夹中的 FLRegKey_20.8_Win.reg 文件，并允许将必要的更改应用于注册表"></a>运行 FL STUDIO PATCH v20.8.3 文件夹中的 FLRegKey_20.8_Win.reg 文件，并允许将必要的更改应用于注册表</h2><h2 id="运行软件"><a href="#运行软件" class="headerlink" title="运行软件"></a>运行软件</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Fl </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>基于Hexo搭建个人博客，butterfly美化(一)</title>
+      <link href="/2022/12/26/hexo5/"/>
+      <url>/2022/12/26/hexo5/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>由于博客美化的功能散布在各个网页中，不好找<br>所以本系列文案主要是整合性质<br>此外会把原文章地址粘贴在相关页旁</p><p>#网站基础设置</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>基于Hexo搭建个人博客（四）</title>
+      <link href="/2022/12/26/hexo4/"/>
+      <url>/2022/12/26/hexo4/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>由于博客美化的功能散布在各个网页中，不好找<br>所以本系列文案主要是整合性质<br>此外会把原文章地址粘贴在相关页旁</p><h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h1><p>在博客根目录下的<strong>source&#x2F;_posts</strong>创建一个<strong>文件名.md</strong>文件<br>写入如下</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">date:</span><br><span class="line">updated:</span><br><span class="line">categories:</span><br><span class="line">tags(或tag):</span><br><span class="line">comments:</span><br><span class="line">description:</span><br><span class="line">keywords:</span><br><span class="line">top_img:</span><br><span class="line">---</span><br><span class="line">阿巴阿巴（文章主体）</span><br></pre></td></tr></table></figure><h2 id="解释"><a href="#解释" class="headerlink" title="解释"></a>解释</h2><p>title【必需】页面标题<br>date【必需】页面创建日期<br>tags 【可选】页面标签<br>categories【可选】页面分类<br>updated【可选】页面更新日期<br>description【可选】页面描述<br>keywords【可选】页面关键字<br>comments【可选】显示页面评论模块(默认 true)<br>top_img【可选】页面顶部图片</p><h2 id="关于文章主题，可以去看markdown的教程"><a href="#关于文章主题，可以去看markdown的教程" class="headerlink" title="关于文章主题，可以去看markdown的教程"></a>关于文章主题，可以去看markdown的教程</h2><p><a href="https://www.runoob.com/markdown/md-tutorial.html">https://www.runoob.com/markdown/md-tutorial.html</a><br>比如</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># 这样写是一级标题</span><br><span class="line">## 这样是二级标题</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>基于Hexo搭建个人博客（三）</title>
+      <link href="/2022/12/26/hexo3/"/>
+      <url>/2022/12/26/hexo3/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>由于博客美化的功能散布在各个网页中，不好找<br>所以本系列文案主要是整合性质<br>此外会把原文章地址粘贴在相关页旁</p><h1 id="标签页"><a href="#标签页" class="headerlink" title="标签页"></a>标签页</h1><p>前往你的Hexo博客根目录，打开cmd命令窗口执行<strong>hexo new page tags</strong>。<br>在 博客根目录的<strong>source</strong>文件夹下会生成一个含有<strong>index.md</strong>文件的<strong>tags</strong>文件夹。<br>修改这个<strong>index.md</strong>，添加<strong>type: “tags”</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 标签</span><br><span class="line">date: 2022-12-23 12:34:12</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure><h1 id="分类页"><a href="#分类页" class="headerlink" title="分类页"></a>分类页</h1><p>前往你的Hexo博客根目录，打开cmd命令窗口执行<strong>hexo new page categories</strong>。<br>在 博客根目录的<strong>source</strong>文件夹下会生成一个含有<strong>index.md</strong>文件的<strong>categories</strong>文件夹。<br>修改这个<strong>index.md</strong>，添加<strong>type: “categories”</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 分类</span><br><span class="line">date: 2022-12-23 12:34:12</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure><h1 id="友情链接"><a href="#友情链接" class="headerlink" title="友情链接"></a>友情链接</h1><p>前往你的Hexo博客根目录，打开cmd命令窗口执行<strong>hexo new page link</strong>。<br>在 博客根目录的<strong>source</strong>文件夹下会生成一个含有<strong>index.md</strong>文件的<strong>link</strong>文件夹。<br>修改这个<strong>index.md</strong>，添加<strong>type: “link”</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 友链</span><br><span class="line">date: 2022-12-23 12:34:12</span><br><span class="line">type: &quot;link&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure><h2 id="友链信息"><a href="#友链信息" class="headerlink" title="友链信息"></a>友链信息</h2><p>前往博客根目录的<strong>source&#x2F;_data</strong>创建一个文件<strong>link.yml</strong>（如果沒有 _data 文件夹，请自行创建）<br>写入如下内容（可以自行更改）</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">- class_name: 友情链接</span><br><span class="line">  class_desc: 那些人，那些事</span><br><span class="line">  link_list:</span><br><span class="line">    - name: 唐志远の博客</span><br><span class="line">      link: https://tzy1997.com/</span><br><span class="line">      avatar: https://bu.dusays.com/2022/01/14/cd5ffd485f867.jpg</span><br><span class="line">      descr: 古今之成大事者，不惟有超世之才，亦必有坚忍不拔之志。</span><br></pre></td></tr></table></figure><h1 id="404界面"><a href="#404界面" class="headerlink" title="404界面"></a>404界面</h1><p>在 博客根目录的 <strong>_config.yml</strong> 找到 <strong>error_404</strong>（ctrl+f查找内容）<br>可以自行修改</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">error_404:</span><br><span class="line">  enable: true</span><br><span class="line">  subtitle: &#x27;Page Not Found&#x27;</span><br><span class="line">  background: /immm/404.jpg </span><br><span class="line"># 我这里直接放了张图</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="如需本地预览，请访问-http-localhost-4000-404-html"><a href="#如需本地预览，请访问-http-localhost-4000-404-html" class="headerlink" title="如需本地预览，请访问 http://localhost:4000/404.html"></a>如需本地预览，请访问 <a href="http://localhost:4000/404.html">http://localhost:4000/404.html</a></h2><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="https://tzy1997.com/articles/hexo1603/">唐志远の博客</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>基于Hexo搭建个人博客（二）</title>
+      <link href="/2022/12/26/hexo2/"/>
+      <url>/2022/12/26/hexo2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>由于博客美化的功能散布在各个网页中，不好找<br>所以本系列文案主要是整合性质<br>此外会把原文章地址粘贴在相关页旁</p><h1 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h1><p>在你的博客根目录打开cmd命令窗口执行<strong>npm i <a href="mailto:&#104;&#101;&#120;&#x6f;&#45;&#x74;&#x68;&#101;&#109;&#x65;&#x2d;&#x62;&#x75;&#x74;&#116;&#x65;&#x72;&#102;&#x6c;&#x79;&#64;&#51;&#46;&#x37;&#46;&#x31;">&#104;&#101;&#120;&#x6f;&#45;&#x74;&#x68;&#101;&#109;&#x65;&#x2d;&#x62;&#x75;&#x74;&#116;&#x65;&#x72;&#102;&#x6c;&#x79;&#64;&#51;&#46;&#x37;&#46;&#x31;</a></strong><br>安装成功后可在博客根目录<strong>node_modules</strong>文件夹下找到<strong>hexo-theme-butterfly</strong></p><h1 id="应用主题"><a href="#应用主题" class="headerlink" title="应用主题"></a>应用主题</h1><p>修改站点配置文件**_config.yml**（在你的博客根目录下），把主题修改为butterfly</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: butterfly</span><br></pre></td></tr></table></figure><h1 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h1><p>执行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="https://tzy1997.com/articles/hexo1603/">唐志远の博客</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>基于Hexo搭建个人博客（一）</title>
+      <link href="/2022/12/26/hexo1/"/>
+      <url>/2022/12/26/hexo1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>前几天花一点时间了解了一下基于Hexo搭建个人博客的流程<br>我别的不说，难度基本上在8+<br>而且好处是暂时不用买域名的钱（如果不嫌github的域名不好看的话）</p><h1 id="此外"><a href="#此外" class="headerlink" title="此外"></a>此外</h1><p>由于博客美化的功能散布在各个网页中，不好找<br>所以本系列文案主要是整合性质<br>此外会把原文章地址粘贴在相关页旁</p><h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><h2 id="Node"><a href="#Node" class="headerlink" title="Node"></a>Node</h2><p>去Node官网<a href="https://nodejs.org/en/download/releases/">https://nodejs.org/en/download/releases/</a>下载，推荐下载12.18.0版本，问就是好用<br>下载完后安装，安装完后按win+r，再输入cmd，点击确定，输入  <strong>node -v</strong>   ，看到版本信息如v12.18.0，则说明安装成功</p><p>修改npm源。npm下载各种模块，默认是从国处服务器下载，速度较慢，建议配置成淘宝镜像。打开CMD窗口，运行如下命令:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm config set registry https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure><p>#安装Hexo<br>剩下的部分比较麻烦，我的建议是去看大佬的博客，他写的更详细一些</p><h1 id="唐志远の博客"><a href="#唐志远の博客" class="headerlink" title="唐志远の博客"></a><a href="https://tzy1997.com/articles/hexo1601/">唐志远の博客</a></h1><h1 id="唐志远の博客-1"><a href="#唐志远の博客-1" class="headerlink" title="唐志远の博客"></a><a href="https://tzy1997.com/articles/hexo1602/">唐志远の博客</a></h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>留言页</title>
       <link href="/2022/12/25/comment/"/>
       <url>/2022/12/25/comment/</url>
