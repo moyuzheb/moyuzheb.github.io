@@ -4,7 +4,26 @@
   
     
     <entry>
-      <title>浅谈 游戏</title>
+      <title>浅谈 游戏（二）</title>
+      <link href="/2023/01/30/g2/"/>
+      <url>/2023/01/30/g2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="”世事漫随流水，算来一梦浮生“"><a href="#”世事漫随流水，算来一梦浮生“" class="headerlink" title="”世事漫随流水，算来一梦浮生“"></a>”世事漫随流水，算来一梦浮生“</h1><h1 id="客栈"><a href="#客栈" class="headerlink" title="客栈"></a>客栈</h1><p>客栈这个远古的概念在现代游戏作品中是一个经典的要素，其主要起到一个承接的功能。<br>例如：<br><strong>情报获取</strong>：荒野大镖客2各地的旅店附近。<br><strong>休闲</strong>：GTA5中夜店的 <strong>脱 衣 舞 演 员</strong>。主要是给大家看个乐呵，但也有封神的如大镖客2西恩营地。 </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂谈 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>浅谈 游戏（一）</title>
       <link href="/2023/01/29/g1/"/>
       <url>/2023/01/29/g1/</url>
       
@@ -129,7 +148,7 @@
       <link href="/2022/12/26/hexo2/"/>
       <url>/2022/12/26/hexo2/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>由于博客美化的功能散布在各个网页中，不好找<br>所以本系列文案主要是整合性质<br>此外会把原文章地址粘贴在相关页旁</p><h1 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h1><p>在你的博客根目录打开cmd命令窗口执行<strong>npm i <a href="mailto:&#x68;&#101;&#x78;&#111;&#x2d;&#116;&#104;&#x65;&#109;&#101;&#x2d;&#98;&#x75;&#x74;&#x74;&#x65;&#114;&#102;&#x6c;&#121;&#64;&#x33;&#46;&#x37;&#x2e;&#49;">&#x68;&#101;&#x78;&#111;&#x2d;&#116;&#104;&#x65;&#109;&#101;&#x2d;&#98;&#x75;&#x74;&#x74;&#x65;&#114;&#102;&#x6c;&#121;&#64;&#x33;&#46;&#x37;&#x2e;&#49;</a></strong><br>安装成功后可在博客根目录<strong>node_modules</strong>文件夹下找到<strong>hexo-theme-butterfly</strong></p><h1 id="应用主题"><a href="#应用主题" class="headerlink" title="应用主题"></a>应用主题</h1><p>修改站点配置文件**_config.yml**（在你的博客根目录下），把主题修改为butterfly</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: butterfly</span><br></pre></td></tr></table></figure><h1 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h1><p>执行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="https://tzy1997.com/articles/hexo1603/">唐志远の博客</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>由于博客美化的功能散布在各个网页中，不好找<br>所以本系列文案主要是整合性质<br>此外会把原文章地址粘贴在相关页旁</p><h1 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h1><p>在你的博客根目录打开cmd命令窗口执行<strong>npm i <a href="mailto:&#x68;&#101;&#x78;&#x6f;&#x2d;&#x74;&#x68;&#101;&#x6d;&#101;&#45;&#98;&#x75;&#116;&#x74;&#x65;&#114;&#102;&#108;&#x79;&#x40;&#x33;&#46;&#55;&#46;&#x31;">&#x68;&#101;&#x78;&#x6f;&#x2d;&#x74;&#x68;&#101;&#x6d;&#101;&#45;&#98;&#x75;&#116;&#x74;&#x65;&#114;&#102;&#108;&#x79;&#x40;&#x33;&#46;&#55;&#46;&#x31;</a></strong><br>安装成功后可在博客根目录<strong>node_modules</strong>文件夹下找到<strong>hexo-theme-butterfly</strong></p><h1 id="应用主题"><a href="#应用主题" class="headerlink" title="应用主题"></a>应用主题</h1><p>修改站点配置文件**_config.yml**（在你的博客根目录下），把主题修改为butterfly</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: butterfly</span><br></pre></td></tr></table></figure><h1 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h1><p>执行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="https://tzy1997.com/articles/hexo1603/">唐志远の博客</a></p>]]></content>
       
       
       <categories>
