@@ -1,5 +1,10 @@
 function welcome(){
     let welcome_text = '整了个弹窗，牛逼吧（）'
+    if(document.referrer!==''){
+        let referrer=document.referrer.split("/")[2];
+        welcome_text="整了个弹窗，牛逼吧（）";
+        if(referrer.toUpperCase()==document.domain.toUpperCase())return;
+    }
     
     swal({
         title: " 欢迎光临qwq~",
