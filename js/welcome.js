@@ -9,7 +9,7 @@ function welcome(){
         title: " 欢迎光临qwq~",
         text: welcome_text+'\n打开页面下方音乐以获得更佳体验\nSite updated:2/1\n本来想写个pixiv日榜接口的，贼难，不如弃 暗 投 明，直接用360壁纸的api',
         imageUrl: "/immm/sb.jpg",
-        timer: 3000,
+        timer: 5000,
         showConfirmButton: true
     });
 }
